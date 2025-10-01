@@ -1,4 +1,4 @@
-#Explorador de Salón - Tarea 3
+##Explorador de Salón - Tarea 3
 Una aplicación Flutter que permite explorar un salón de clases interactivo con información detallada de cada mueble.
 
 #Características
